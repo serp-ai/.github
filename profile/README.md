@@ -8,9 +8,7 @@
 
 
 
-## 📯 SERP AI: The Purpose
-
-### Free Beer 🍺
+## 🍺 The Purpose: Free Beer 
 
 [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), the creator of the GNU/Linux movement & early proponent of Open Source Software made the distinction that Open Source meant "free" as in free speech, not free beer.
 

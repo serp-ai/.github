@@ -45,7 +45,7 @@ Practically, serp.ai is an ever growing, organized collection of all things AI. 
 
 If it's part of the AI movement we're interested. Our goal is to advance AI, help others participate & learn, and create software together that we can all benefit from and enjoy. 
 
-You can use serp.ai to:
+### You can use serp.ai to:
 
 * 👨‍💻 Learn and stay up-to-date.
 * 🙌 Interact based on the latest trends in our ecosystem.

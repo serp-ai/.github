@@ -61,9 +61,10 @@ You can use serp.ai to:
 ***
 <br>
 
-Hope to see you soon.
-Cheers & stay funky, my friends. 🦩
-
+Hope to see you soon.<br>
+Cheers! 
+<br>Stay funky, my friends. 🦩
+<br>
 - @devinschumacher | Founder @ [SERP AI](https://serp.ai/)
 <br>
 <img src="https://user-images.githubusercontent.com/45643901/230811358-f2e9a12d-b76d-4880-bf06-a96b16f78ad8.jpg" alt="devin schumacher" width="100">

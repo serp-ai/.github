@@ -66,4 +66,4 @@ Cheers & stay funky, my friends. 🦩
 
 - @devinschumacher | Founder @ [SERP AI](https://serp.ai/)
 <br>
-<img src="https://user-images.githubusercontent.com/45643901/230811358-f2e9a12d-b76d-4880-bf06-a96b16f78ad8.jpg" alt="devin schumacher" width="200">
+<img src="https://user-images.githubusercontent.com/45643901/230811358-f2e9a12d-b76d-4880-bf06-a96b16f78ad8.jpg" alt="devin schumacher" width="100">

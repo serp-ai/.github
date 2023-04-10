@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Welcome to the SERP AI</h1>
   <h3><strong>Artificial Intelligence for the greatest good, for the greatest number.</strong></h3>
+  <img src="[assets/Logo - Black (1).jpg](https://user-images.githubusercontent.com/45643901/230811749-3deeb2d7-807a-4c87-b891-dd26a4a14558.png)" alt="SERP AI Logo" width="75">
 </div>
 <br>
 

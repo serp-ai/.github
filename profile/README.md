@@ -58,6 +58,12 @@ If it's part of the AI movement we're interested. Our goal is to advance AI, hel
 2. Come hang out in the official [Discord](https://discord.gg/9M8NmPQgpE).
 3. Code with us; join the `🧙 Open Sorcerers` and let's build cool things together than help the world around us.
 
+<br>
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Oh Yeah!" src="https://codepen.io/devinschumacher/embed/KKxOjQZ?default-tab=result&theme-id=44860" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+</iframe>
+
+
 ***
 <br>
 

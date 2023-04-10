@@ -61,6 +61,9 @@ If it's part of the AI movement we're interested. Our goal is to advance AI, hel
 <br>
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Oh Yeah!" src="https://codepen.io/devinschumacher/embed/KKxOjQZ?default-tab=result&theme-id=44860" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/devinschumacher/pen/KKxOjQZ">
+  Oh Yeah!</a> by Devin Schumacher (<a href="https://codepen.io/devinschumacher">@devinschumacher</a>)
+  on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
 

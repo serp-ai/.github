@@ -33,10 +33,13 @@ We need your help, if you're willing to lend it.
 **& free beer, for all! 🍻.**
 
 ---
+<br>
 
 ## SERP AI: The Platform
 
-Practically, serp.ai is an ever growing, organized collection of all things AI. Tools, datasets, news, models, projects, research, books, courses, community - you name it. If it's part of the AI movement we're interested. Our goal is to advance AI, help others participate & learn, and create software together that we can all benefit from and enjoy. 
+Practically, serp.ai is an ever growing, organized collection of all things AI. Tools, datasets, news, models, projects, research, books, courses, community - you name it. 
+
+If it's part of the AI movement we're interested. Our goal is to advance AI, help others participate & learn, and create software together that we can all benefit from and enjoy. 
 
 You can use serp.ai to:
 
@@ -52,6 +55,7 @@ You can use serp.ai to:
 3. Code with us; join the `🧙 Open Sorcerers` and let's build cool things together than help the world around us.
 
 ***
+<br>
 
 Hope to see you soon.
 Cheers & stay funky, my friends. 🦩

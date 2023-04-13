@@ -20,13 +20,11 @@ We are on a mission to snuff out the companies & bad actors looking to monetize 
 
 We believe that by making all the tools free, there will be no room for capitalism to exploit the arts or capitalize on easy arbitraging of AI - when it is meant to be for everyone.
 
-We need developers to help us build these tools, and in exchange are willing to provide resources to help you in turn.
+We need developers like you to help us build these tools!
 
-Resources like free compute on GPUs, infrastructure and overhead.
+We are committed to continuing to bring new models, weights, a cutting edge AI to you - but we don't have the bandwidth to turn them all into consumer facing apps - unless we work together 💪
 
-And access to a team that can take your ideas, bring other developers in to help with the parts you don't enjoy, and marketing firepower to bring it to large amounts of users.
-
-It's time use developers & internet marketers worked together to restore some order back to the internet.
+It's time us developers & internet marketers worked together to restore some order back to the internet.
 
 Be a part of something great, and watch your creations bring good to the world.
 

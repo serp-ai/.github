@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/45643901/234507966-42922ff5-f532-4d73-abbd-a2c875971e9f.jpg" alt="SERP AI Logo" width="50">
+  <img src="https://user-images.githubusercontent.com/45643901/234507966-42922ff5-f532-4d73-abbd-a2c875971e9f.jpg" alt="SERP AI Logo" width="100">
   <h1>Welcome to the SERP AI</h1>
   <h3><strong>Artificial Intelligence for the greatest good, for the greatest number.</strong></h3>
   

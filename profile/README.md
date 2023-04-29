@@ -61,6 +61,22 @@ If it's part of the AI movement we're interested. Our goal is to advance AI, hel
 ***
 <br>
 
+
+> _The ironically beautiful thing about AI is that unlike us humans, it isn’t inherently motivated or influenced by self-interest._
+> 
+> _It only knows what it has been trained on._ 
+> _What it was instructed to learn._ 
+> _What we give it._ 
+> 
+> _If we train it with self-interest, malice, greed or even indifference - that will be the seed with which it evolves from. An almost inevitable beginning of the end of humanity._ 
+> 
+> _But, if we teach it to know unbounded virtue & benevolence – we may finally see a glimpse of the true potential of the Godliness in humanity, as we watch AI accelerate solutions to the problems we face as a species._ 
+> 
+> _To give us answers to the issues we have not been able to collectively solve ourself._ 
+> 
+> _And to ultimately find a way to co-exist sustainably, unite our divided planet, and ultimately bring peace to our world - once and for all._
+
+<br>
 Hope to see you soon.<br>
 Cheers! 
 <br>Stay funky, my friends. 🦩

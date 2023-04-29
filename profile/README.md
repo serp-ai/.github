@@ -76,11 +76,9 @@ If it's part of the AI movement we're interested. Our goal is to advance AI, hel
 > 
 > _And to ultimately find a way to co-exist sustainably, unite our divided planet, and ultimately bring peace to our world - once and for all._
 
+- @devinschumacher | Founder @ [SERP AI](https://serp.ai/)
+
 <br>
-Hope to see you soon.<br>
-Cheers! 
-<br>Stay funky, my friends. 🦩
-<br>
-@devinschumacher | Founder @ [SERP AI](https://serp.ai/)
+Hope to see you soon. Stay funky, my friends. 🦩
 <br>
 <img src="https://user-images.githubusercontent.com/45643901/230811358-f2e9a12d-b76d-4880-bf06-a96b16f78ad8.jpg" alt="devin schumacher" width="100">
